@@ -1,7 +1,9 @@
 body {
     color: black;
     background-color: blanchedalmond;
-    font-family: sans-serif;
+    margin: 0px;
+    font-family: "Edu Australia VIC WA NT Hand Precursive", sans-serif;
+    ;
 }
 
 header {
