@@ -2,6 +2,8 @@ body {
     color: white;
     background-color: black;
     font-family: "Roboto", sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 header {
